@@ -1,0 +1,33 @@
+.bgColorBlack{
+  background-color: #444444
+}
+.decentPadding{
+  padding:20px;
+}
+.decentPicture{
+  width: 160px;
+  height: auto;
+}
+.namesBoard{
+  font-size: 40px;
+  font-family: fantasy;
+  color:#FFFFF7;
+}
+.headline{
+  font-size: 20px;
+  color:#199EC7;
+}
+.padding20{
+  padding-left: 34px !important
+}
+.question{
+  color:#FFFFF7;
+  font-size: 15px
+}
+.data{
+  color:#768A92;
+  font-size: 15px
+}
+.aboutMe{
+color: white;
+}

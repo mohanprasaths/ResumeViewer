@@ -1,0 +1,38 @@
+.bgColorGreen{
+  background-color: #0F6177
+}
+.Heading{
+  color: #caeadc;
+  font-size: 26px;
+  font-variant: small-caps;
+  padding:20px
+}
+.borderBottom{
+  border-bottom-style: double;
+  border-color: white;
+}
+.schoolName{
+  font-size: 20px;
+  color: white;
+}
+.singleEdu{
+  border-bottom-style: inset;
+  border-color: #78d9af;
+}
+.degree{
+  color:white
+}
+.sizeChart{
+  width:150px;
+  margin-left:41%;
+  padding:20px
+}
+.percentage{
+  color: white;
+float: none;
+/*margin-left: 43%;*/
+font-size: 20px;
+}
+.bgColorBlack{
+  background-color: #444444
+}

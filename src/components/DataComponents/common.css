@@ -1,0 +1,14 @@
+.dateRight{
+  color:white;
+  float:right
+}
+.borderBottom{
+  border-bottom-style: double;
+  border-color: white;
+}
+.bgColorBlack{
+  background-color: #444444
+}
+.bgColorGreen{
+  background-color: #0F6177
+}
